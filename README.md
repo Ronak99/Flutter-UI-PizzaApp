@@ -1,16 +1,15 @@
-# pizza_app
+# Flutter Speed Coding - BOOKS APP UI
+This repository hosts the complete code of the demo flutter app that I built, recorded and published the recording on youtube.
 
-A new Flutter project.
+[Watch the video](https://youtu.be/Ob_uJgHseOI)
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+<img src="https://github.com/Ronak99/Flutter-UI-PizzaApp/blob/master/assets/ss/front.PNG" align="left" width="35%" >
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://github.com/Ronak99/Flutter-UI-PizzaApp/blob/master/assets/ss/screen1.PNG" align="left" width="35%" >
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+<img src="https://github.com/Ronak99/Flutter-UI-PizzaApp/blob/master/assets/ss/screen2.PNG" align="left" width="35%" >
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/Ronak99/Flutter-UI-PizzaApp/blob/master/assets/ss/screen3.PNG" align="left" width="35%" >
+
