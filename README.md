@@ -1,4 +1,4 @@
-# Flutter Speed Coding - BOOKS APP UI
+# Flutter Speed Coding - PIZZA APP UI
 This repository hosts the complete code of the demo flutter app that I built, recorded and published the recording on youtube.
 
 [Watch the video](https://youtu.be/Ob_uJgHseOI)
